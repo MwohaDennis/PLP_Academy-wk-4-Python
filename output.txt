@@ -1,8 +1,0 @@
-Original Data:
-HELLO, WORLD!
-HELLO, WORLD!
-HELLO, WORLD!
-HELLO, WORLD!
-HELLO, WORLD!
-
-Word Count: 70
